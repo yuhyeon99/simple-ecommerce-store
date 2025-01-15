@@ -31,7 +31,7 @@ Simple E-commerce Store는 사용자가 상품을 탐색, 장바구니 관리, �
 
 ## **주요 버전**
 
-- **Node.js**: `^18.17.1`
+- **Node.js**: `^20.18.1`
 - **React**: `^18.3.1`
 - **React-DOM**: `^18.3.1`
 - **React-Query**: 최신 버전
