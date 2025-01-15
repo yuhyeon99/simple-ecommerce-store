@@ -40,7 +40,7 @@ Simple E-commerce Store는 사용자가 상품 탐색, 장바구니 관리, 주�
 - **GitHub Actions**: CI/CD 파이프라인 구성
 
 ### **패키지 관리**
-- **Yarn Berry**, **PNPM**: 의존성 관리 및 최적화
+- **PNPM**: 의존성 관리 및 최적화
 
 ### **테스트**
 - **Vitest**: 유닛 테스트 작성 및 실행
