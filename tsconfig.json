@@ -5,8 +5,8 @@
       "@/*": ["*"],
       "@pages/*": ["pages/*"],
       "@components/*": ["components/*"],
+      "@layouts/*": ["layouts/*"],
     },
-    "moduleResolution": "node",
   },
   "files": [],
   "references": [
