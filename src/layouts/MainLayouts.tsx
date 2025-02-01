@@ -1,6 +1,6 @@
 // src/layouts/MainLayout.tsx
 import { Outlet } from "react-router-dom";
-import Header from "./header";
+import Header from "@layouts/header";
 
 const MainLayout = () => {
   return (

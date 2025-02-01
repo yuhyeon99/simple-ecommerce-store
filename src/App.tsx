@@ -1,14 +1,18 @@
 import './App.css'
-import { ThemeProvider } from '@emotion/react'
+import { Global, ThemeProvider } from '@emotion/react'
 import { lightTheme } from './styles/theme'
 import AppRouter from './routes/AppRouter'
+import globalStyle from './styles/global.style'
 
 function App() {
 
   return (
-    <ThemeProvider theme={lightTheme}>
-      <AppRouter />
-    </ThemeProvider>
+    <>
+      <Global styles={globalStyle} />
+      <ThemeProvider theme={lightTheme}>
+        <AppRouter />
+      </ThemeProvider>
+    </>
   )
 }
 
