@@ -5,9 +5,7 @@ const globalStyle = css`
   body {
     padding: 0;
     margin: 0;
-
     overflow-y: auto;
-    background-color: pink;
   }
 
   a {
