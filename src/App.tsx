@@ -1,4 +1,3 @@
-import './App.css'
 import { Global, ThemeProvider } from '@emotion/react'
 import { lightTheme } from './styles/theme'
 import AppRouter from './routes/AppRouter'

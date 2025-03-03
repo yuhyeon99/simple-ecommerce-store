@@ -5,7 +5,6 @@ const globalStyle = css`
   body {
     padding: 0;
     margin: 0;
-    overflow-y: auto;
   }
 
   a {
